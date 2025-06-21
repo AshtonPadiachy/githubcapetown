@@ -1,0 +1,42 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.0.0
+MinimumVisualStudioVersion = 17.8.0.0
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "githubcapetown.AppHost", "githubcapetown.AppHost\githubcapetown.AppHost.csproj", "{BE46D278-CE45-4D0F-85E1-5533071AB179}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "githubcapetown.ServiceDefaults", "githubcapetown.ServiceDefaults\githubcapetown.ServiceDefaults.csproj", "{1C0E2D84-6766-4CD1-82DC-0649C6434243}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "githubcapetown.ApiService", "githubcapetown.ApiService\githubcapetown.ApiService.csproj", "{D8F19B7B-BA54-4072-B651-B6EC6DF0045F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "githubcapetown.Web", "githubcapetown.Web\githubcapetown.Web.csproj", "{AEF47277-FC56-402B-B85B-FD54756664C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE46D278-CE45-4D0F-85E1-5533071AB179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE46D278-CE45-4D0F-85E1-5533071AB179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE46D278-CE45-4D0F-85E1-5533071AB179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE46D278-CE45-4D0F-85E1-5533071AB179}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C0E2D84-6766-4CD1-82DC-0649C6434243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C0E2D84-6766-4CD1-82DC-0649C6434243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C0E2D84-6766-4CD1-82DC-0649C6434243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C0E2D84-6766-4CD1-82DC-0649C6434243}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8F19B7B-BA54-4072-B651-B6EC6DF0045F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8F19B7B-BA54-4072-B651-B6EC6DF0045F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8F19B7B-BA54-4072-B651-B6EC6DF0045F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8F19B7B-BA54-4072-B651-B6EC6DF0045F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEF47277-FC56-402B-B85B-FD54756664C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEF47277-FC56-402B-B85B-FD54756664C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEF47277-FC56-402B-B85B-FD54756664C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEF47277-FC56-402B-B85B-FD54756664C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7B6E257-1F05-43FC-B0BD-5EFAA1EC5434}
+	EndGlobalSection
+EndGlobal
